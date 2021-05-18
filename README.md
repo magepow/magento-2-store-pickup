@@ -8,25 +8,51 @@ Website users can choose a specific pickup location thanks to the smart map inte
  - Magento 2 Store Pickup with Lоcator allows your customers to order online and pickup products from a nearby store at a convenient day and time. Let them view all of your stores on a handy map and quickly choose the most appropriate one with special filters. Show each location detailed info and reviews on a separate page. Boost offline sales providing your customers with an ultimate shopping experience.
  - Offer a seamless shopping experience, generate more sales, and increase the traffic to your points of sales.
  
+### Highlight Features
+
+- Disable and Enable the module whenever you want in Admin Panel.
  
-#### Highlight Features
+- Add shipping method: receive goods to create a store for Magento website.
 
- - Disable and Enable the module whenever you want in Admin Panel.
- - Let buyers choose the pickup time
- - Allow choosing a store on the map
- - Replace shipping address with store address
+- Customers can freely choose a specific delivery date and time right on the user interface. No need to contact the website administrator.
 
-### I . Download Magento 2 Store Pickup Extension
-✓ Install Magepow Store Pickup via composer (recommend).
-   ```
-        composer require magepow/storepickup
-        php bin/magento setup:upgrade
-        php bin/magento setup:static-content:deploy -f
-        php bin/magento c:f
-```
-### II . User guide ConFig Admin
+- Integrated smart map showing the location of traditional stores.
 
-#### Step 1 : How To Config The Extension
+- Admin can add unlimited number of pickup locations.
+
+- Customize title, price, handling fee, applicable countries, message order in the backend
+
+- 100% support Magento open source
+
+- Suitable for many types of stores and many languages
+
+### Benefits
+
+- Easy store management that requires no coding knowledge
+
+- Promotion of traditional stores
+
+- Shipping promotions for customers
+
+- Save admin shipping processing time
+
+- Customers actively manage the delivery time.
+
+- Avoid risks in shipping for the website
+
+- Increase sales at traditional stores
+
+## How does Store Pickup work for Magento 2?
+
+- Installtion, Support time at [Magento 2 Store Pịckup](https://magepow.com/magento-2-store-pickup.html)
+
+- Demo Store Pickup: [DEMO FRONTEND](http://demo.magepow.com/storepickup/), [DEMO BACKEND](http://demo.magepow.com/storepickup/admin)
+
+- [ DOCUMENTATION](https://docs.magepow.com/storepickup/)
+
+## II. User guide ConFig Admin
+
+### Step 1: How To Config The Extension
 ```
 Admin Panel > Stores => Configuration => Magepow => Google Map Store Locator => General Setting
 ```
@@ -38,7 +64,7 @@ Admin Panel > Stores => Configuration => Magepow => Google Map Store Locator => 
 
 ![config-module.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/config-module.png)
 
-#### Step 2 :  Add new Store locator
+### Step 2:  Add new Store locator
 
 - Add new stores to display frontend options
 
@@ -60,7 +86,7 @@ Admin Panel > Stores => Configuration => Magepow => Google Map Store Locator => 
 ```
 ![edit-delete.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/edit-delete.png)
 
-### III . Result Frontend
+### Result Frontend
 - checkout shipping show 1
 
 ![checkout2.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/checkout2.png)
@@ -81,13 +107,13 @@ Admin Panel > Stores => Configuration => Magepow => Google Map Store Locator => 
 
 ![customacc.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/customacc.png)
 
-### III : CUSTOM SUPPORT
+### III: CUSTOM SUPPORT
 ##### 1 Support
 - Ticket Support: http://alothemes.com/ticket. If you have found any bugs or have some other problems with this extension. If the problem is not covered there, you can contact us via support center. We will respond as soon as possible (within 24 – 48 hours, usually much faster)
 
 ##### 2 -Contact
-- Support Email support@alothemes.com
-- Contact Sales: contact@alothemes.com
+- Support Email support@magepow.com
+- Contact Sales: https://magepow.com/contact 
 
 ### Donation
 
