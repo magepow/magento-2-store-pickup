@@ -42,7 +42,7 @@ Website users can choose a specific pickup location thanks to the smart map inte
 
 - Increase sales at traditional stores
 
-## How does Store Pickup work for Magento 2?
+## I: How does Store Pickup work for Magento 2?
 
 - Installtion, Support time at [Magento 2 Store Pịckup](https://magepow.com/magento-2-store-pickup.html)
 
