@@ -1,5 +1,8 @@
 ## Magento 2 Store Pickup Extension
-Enhance customers' loyalty by providing an additional shipping option with Magento 2 Store Pickup with Locator. Drive more sales attracting buyers to your brick-and-mortar stores with a complex solution.
+
+Store Pickup Extension for Magento helps to diversify the shipping method for your website by adding a shipping option: pick up in store. 
+Website users can choose a specific pickup location thanks to the smart map integration right on the website.
+
 #### Description
  - Quite often, shoppers check if needed items are available at a nearby point of sales while ordering online. They may not have enough time to wait until their purchases will be delivered or they just may prefer not to spend extra money on shipping. In such cases customers more likely to choose the store with a self-delivery option, with the opportunity to choose a suitable store and specify the time for pickup.
  - Magento 2 Store Pickup with Lоcator allows your customers to order online and pickup products from a nearby store at a convenient day and time. Let them view all of your stores on a handy map and quickly choose the most appropriate one with special filters. Show each location detailed info and reviews on a separate page. Boost offline sales providing your customers with an ultimate shopping experience.
