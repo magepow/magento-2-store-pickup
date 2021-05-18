@@ -34,7 +34,7 @@ Admin Panel > Stores => Configuration => Magepow => Google Map Store Locator => 
 
 - Api key google and Title
 
-![config-module.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/config-module.png)
+![config-module.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/config-module.png)
 
 #### Step 2 :  Add new Store locator
 
@@ -45,39 +45,39 @@ Admin Panel > Stores => Configuration => Magepow => Google Map Store Locator => 
 ```
 -  Please Fill Out All The Information Here
 
-![adminform.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/adminform.png)
+![adminform.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/adminform.png)
 
 
-![admin-form-working.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/admin-form-working.png)
+![admin-form-working.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/admin-form-working.png)
 
-![addnewstore.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/addnewstore.png)
+![addnewstore.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/addnewstore.png)
 
 - You can add a new store by clicking on "Add New Store Locator" or click on
 ```
  Action => Select => edit to edit store details. If you want to delete any store, press Action => Select => Delete
 ```
-![edit-delete.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/edit-delete.png)
+![edit-delete.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/edit-delete.png)
 
 ### III . Result Frontend
 - checkout shipping show 1
 
-![checkout2.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/checkout2.png)
+![checkout2.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/checkout2.png)
 
 - checkout shipping show 2
 
-![checkout1.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/checkout1.png)
+![checkout1.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/checkout1.png)
 
 - checkout shipping show 3
 
-![checkout5.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/checkout5.png)
+![checkout5.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/checkout5.png)
 
 - Results after the customer using the pickup store is displayed in admin
 
-![sales.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/sales.png)
+![sales.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/sales.png)
 
 - The results after the customer uses the pickup store is displayed in the customer's warehouse section
 
-![customacc.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/customacc.png)
+![customacc.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/customacc.png)
 
 ### III : CUSTOM SUPPORT
 ##### 1 Support
