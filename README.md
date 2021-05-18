@@ -30,7 +30,7 @@ Admin Panel > Stores => Configuration => Magepow => Google Map Store Locator => 
 ```
 - Enabled / Disabled module
 
-![enable_disable.png](https://github.com/magepow/magento-2-store-pickup/blob/master/media/enable_disable.png)
+![enable_disable.png](https://github.com/magepow/magento-2-store-pickup/blob/main/media/enable_disable.png)
 
 - Api key google and Title
 
